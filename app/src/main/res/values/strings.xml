@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidFinalProject</string>
+    <string name="submit">ثبت</string>
+    <string name="edit_info_button">اطلاعات ناقص است؟ برای تکمیل اینجا کلیک کنید</string>
+    <string name="venue_address_title">آدرس:</string>
+    <string name="venue_phone_title">تلفن:</string>
+    <string name="venue_category_title">دسته بندی ها:</string>
+    <string name="no_content">در انتظار دریافت اطلاعات</string>
+    <string name="venues_around_you">مکان های اطراف شما</string>
+    <string name="previous">نمایش نظرات</string>
+    <string name="close">بستن</string>
+    <string name="title">نظرات</string>
+</resources>

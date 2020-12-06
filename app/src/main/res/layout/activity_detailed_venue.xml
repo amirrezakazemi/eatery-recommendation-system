@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".view.DetailedVenueActivity">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/venue_name_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:foregroundGravity="center"
+
+        app:cardBackgroundColor="@color/Gray"
+        app:cardCornerRadius="@dimen/cardview_default_radius">
+
+        <TextView
+            android:id="@+id/venue_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/item_margin"
+            android:textAlignment="center"
+            android:textColor="@color/light_blue_500" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/venue_info_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/venue_name_holder"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:animateLayoutChanges="true"
+        android:padding="@dimen/item_margin"
+        app:cardBackgroundColor="@color/Gray"
+        app:contentPadding="@dimen/cardview_default_elevation">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:layoutDirection="rtl"
+            android:orientation="vertical"
+            android:textAlignment="center"
+            tools:targetApi="jelly_bean_mr1">
+
+            <TextView
+                android:id="@+id/venue_address_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="@dimen/item_margin"
+                android:layout_marginRight="@dimen/item_margin"
+                android:layout_marginBottom="@dimen/item_margin"
+                android:hint="@string/venue_address_title"
+                android:padding="@dimen/item_margin"
+                android:textAlignment="center"
+                android:textColor="@color/Black"
+
+                android:textColorHint="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/venue_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="@dimen/item_margin"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="@dimen/item_margin"
+                android:layout_toLeftOf="@id/venue_address_title"
+                android:hint="@string/no_content"
+                android:padding="@dimen/item_margin"
+                android:textAlignment="center"
+                android:textColor="@color/White"
+                android:textColorHint="@color/White"
+
+                android:textColorLink="@color/White" />
+
+            <TextView
+                android:id="@+id/venue_phone_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/venue_address"
+                android:layout_gravity="end"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="@dimen/item_margin"
+                android:layout_marginRight="@dimen/item_margin"
+                android:layout_marginBottom="@dimen/item_margin"
+                android:hint="@string/venue_phone_title"
+                android:padding="@dimen/item_margin"
+                android:textAlignment="center"
+                android:textColor="@color/Black"
+
+                android:textColorHint="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/venue_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/venue_address"
+                android:layout_gravity="end"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="@dimen/item_margin"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="@dimen/item_margin"
+                android:layout_toLeftOf="@id/venue_phone_title"
+                android:hint="@string/no_content"
+                android:padding="@dimen/item_margin"
+                android:textAlignment="center"
+                android:textColor="@color/White"
+
+                android:textColorHint="@color/White" />
+
+            <TextView
+                android:id="@+id/venue_category_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/venue_phone"
+                android:layout_gravity="end"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="@dimen/item_margin"
+                android:layout_marginRight="@dimen/item_margin"
+                android:layout_marginBottom="@dimen/item_margin"
+                android:hint="@string/venue_category_title"
+                android:padding="@dimen/item_margin"
+                android:textAlignment="center"
+                android:textColor="@color/Black"
+                android:textColorHint="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/venue_category"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/venue_phone"
+                android:layout_gravity="end"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="@dimen/item_margin"
+                android:layout_marginEnd="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="@dimen/item_margin"
+                android:layout_toLeftOf="@id/venue_category_title"
+                android:hint="@string/no_content"
+                android:padding="@dimen/item_margin"
+                android:textAlignment="center"
+                android:textColor="@color/White"
+                android:textColorHint="@color/White" />
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/linearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/venue_info_holder"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:onClick="onclick"
+            android:text="@string/submit" />
+
+        <EditText
+            android:id="@+id/commentBox"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/White"
+            android:hint="نظر خود را در این جا ثبت کنید"
+            android:imeOptions="actionDone"
+            android:singleLine="true" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/previous_comments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:onClick="COnClick"
+        android:text="@string/previous" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/edit_info_button"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/previous_comments"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:hint="در حال دریافت مکان های مشابه"
+        android:textAlignment="center"
+        android:textColor="@color/light_blue_500"
+        android:textColorHint="@color/light_blue_500" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recommendation_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/edit_info_button"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="4dp"
+        android:padding="@dimen/item_margin"
+        android:scrollbars="vertical">
+
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

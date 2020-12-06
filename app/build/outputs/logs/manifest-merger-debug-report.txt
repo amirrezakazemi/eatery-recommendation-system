@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0ff35bbce8fb569b992000a8b2f041e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\18a678c090c95f1e657b7bc40c406898\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\559da3b42eacf1c25a3789f74d531a9f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\207aab821eb14b178bda544c28123b5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0daecc9f775a982fc883048b37214210\AndroidManifest.xml:17:1-22:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\afecb8ccd5acc4c3ae68871b83b4cbeb\AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1fdafd5aaed45cf04ebb3a2365e15814\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7c6b08d302826e55b98a4fb8310cf96e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f545cbbce4c25d317c26a217562446fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\9f652d5d56b40eed41e0da50bf7a7756\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\240cf0c26b8d32ba97fbfdabd036335e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\a558fcd50b229e006d07a7a931450377\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\08b3e9b0e478454f477d948ad168c0fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\cd94bebbc6c0fb9ef277fb886f9c8f71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\36bbb7f9afe9b4c28e7a32d3eba3f3c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1c047a2088de9a38c59c3f4063abd52e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\8cdbbfe70e173dd1c320463362b553e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\4151fecd4b871616aa2c0f23abf96633\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\c640db175bec6d1981ddd1e5908964c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ce9fa2527dcf8716d900e859210965f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\34e9595712895ab3c2e6923ed7d2bf43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\9e2aa0b387436f8e9ba9084a1a01e15a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dc7563e4b01e5c105833b31b55ea23a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\eb5de0f7dbf1b0ea377302a802d99685\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d24f1ed898686438884193b18030dda9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1c6fbb7da3a03858a5657710423d88dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dae2d2695732c6a4c00d9426b52afdef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ea66075144ab9113780e25445c4679bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\bfb48c9587f1a78f49a2df4b7991b02d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dd94d11507ab77d789a02ca90f4cf254\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\97b6ace6f2a412e0540d8588eaefd9ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\43dfe07f2c08f99e60ec62d9e3ba9cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ed44945fac15a41f3fc854a87a28a772\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d51fba4023b0ff5037a18817bb3f1c5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\aedeee604d4eba73d3c9a16007b7889f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0ff35bbce8fb569b992000a8b2f041e8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0ff35bbce8fb569b992000a8b2f041e8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\18a678c090c95f1e657b7bc40c406898\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\18a678c090c95f1e657b7bc40c406898\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\559da3b42eacf1c25a3789f74d531a9f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\559da3b42eacf1c25a3789f74d531a9f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7c6b08d302826e55b98a4fb8310cf96e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7c6b08d302826e55b98a4fb8310cf96e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\eb5de0f7dbf1b0ea377302a802d99685\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\eb5de0f7dbf1b0ea377302a802d99685\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d24f1ed898686438884193b18030dda9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d24f1ed898686438884193b18030dda9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\eb5de0f7dbf1b0ea377302a802d99685\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:11:9-43
+activity#com.example.androidfinalproject.view.MainActivity
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:18:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.androidfinalproject.view.DetailedVenueActivity
+ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:25:9-26:55
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:26:13-52
+	android:name
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml:25:19-61
+uses-sdk
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0ff35bbce8fb569b992000a8b2f041e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0ff35bbce8fb569b992000a8b2f041e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\18a678c090c95f1e657b7bc40c406898\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\18a678c090c95f1e657b7bc40c406898\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\559da3b42eacf1c25a3789f74d531a9f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\559da3b42eacf1c25a3789f74d531a9f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\207aab821eb14b178bda544c28123b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\207aab821eb14b178bda544c28123b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0daecc9f775a982fc883048b37214210\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\0daecc9f775a982fc883048b37214210\AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\afecb8ccd5acc4c3ae68871b83b4cbeb\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\afecb8ccd5acc4c3ae68871b83b4cbeb\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1fdafd5aaed45cf04ebb3a2365e15814\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1fdafd5aaed45cf04ebb3a2365e15814\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7c6b08d302826e55b98a4fb8310cf96e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7c6b08d302826e55b98a4fb8310cf96e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f545cbbce4c25d317c26a217562446fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f545cbbce4c25d317c26a217562446fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\9f652d5d56b40eed41e0da50bf7a7756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\9f652d5d56b40eed41e0da50bf7a7756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\240cf0c26b8d32ba97fbfdabd036335e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\240cf0c26b8d32ba97fbfdabd036335e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\a558fcd50b229e006d07a7a931450377\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\a558fcd50b229e006d07a7a931450377\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\08b3e9b0e478454f477d948ad168c0fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\08b3e9b0e478454f477d948ad168c0fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\cd94bebbc6c0fb9ef277fb886f9c8f71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\cd94bebbc6c0fb9ef277fb886f9c8f71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\36bbb7f9afe9b4c28e7a32d3eba3f3c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\36bbb7f9afe9b4c28e7a32d3eba3f3c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1c047a2088de9a38c59c3f4063abd52e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1c047a2088de9a38c59c3f4063abd52e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\8cdbbfe70e173dd1c320463362b553e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\8cdbbfe70e173dd1c320463362b553e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\4151fecd4b871616aa2c0f23abf96633\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\4151fecd4b871616aa2c0f23abf96633\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\c640db175bec6d1981ddd1e5908964c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\c640db175bec6d1981ddd1e5908964c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ce9fa2527dcf8716d900e859210965f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ce9fa2527dcf8716d900e859210965f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\34e9595712895ab3c2e6923ed7d2bf43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\34e9595712895ab3c2e6923ed7d2bf43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\9e2aa0b387436f8e9ba9084a1a01e15a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\9e2aa0b387436f8e9ba9084a1a01e15a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dc7563e4b01e5c105833b31b55ea23a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dc7563e4b01e5c105833b31b55ea23a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\eb5de0f7dbf1b0ea377302a802d99685\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\eb5de0f7dbf1b0ea377302a802d99685\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d24f1ed898686438884193b18030dda9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d24f1ed898686438884193b18030dda9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1c6fbb7da3a03858a5657710423d88dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\1c6fbb7da3a03858a5657710423d88dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dae2d2695732c6a4c00d9426b52afdef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dae2d2695732c6a4c00d9426b52afdef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ea66075144ab9113780e25445c4679bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ea66075144ab9113780e25445c4679bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\bfb48c9587f1a78f49a2df4b7991b02d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\bfb48c9587f1a78f49a2df4b7991b02d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dd94d11507ab77d789a02ca90f4cf254\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\dd94d11507ab77d789a02ca90f4cf254\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\97b6ace6f2a412e0540d8588eaefd9ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\97b6ace6f2a412e0540d8588eaefd9ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\43dfe07f2c08f99e60ec62d9e3ba9cbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\43dfe07f2c08f99e60ec62d9e3ba9cbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ed44945fac15a41f3fc854a87a28a772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\ed44945fac15a41f3fc854a87a28a772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d51fba4023b0ff5037a18817bb3f1c5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\d51fba4023b0ff5037a18817bb3f1c5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\aedeee604d4eba73d3c9a16007b7889f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\aedeee604d4eba73d3c9a16007b7889f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN10\AndroidStudioProjects\androidFinalProject\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\7a41e9ee5b1a7dc67fbd4b7b4c1e411e\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\73a6a1a80340fc068fd41df6bdc62704\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\WIN10\.gradle\caches\transforms-2\files-2.1\f5b196d40e693f7bdb06441e83d87108\AndroidManifest.xml:24:13-58
